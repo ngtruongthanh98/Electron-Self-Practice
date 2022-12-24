@@ -1,0 +1,14 @@
+{
+  "name": "electron-self-practice",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": "git@github.com:ngtruongthanh98/electron-self-practice.git",
+  "author": "ThanhNT26 <ngtruongthanh98@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^22.0.0"
+  }
+}
